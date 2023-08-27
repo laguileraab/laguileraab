@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 # About me
 
-- 🔭 I’m currently applying to backend positions using Java. Let me know if your company is hiring!
 - 🌱 I'm currently learning as much as I can about Spring projects and i'm loving it!
 - 📫 How to reach me: [laguileraab@gmail.com](mailto:laguileraab@gmail.com)
 
